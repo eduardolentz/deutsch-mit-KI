@@ -48,40 +48,185 @@ Você não precisa instalar nada nem saber programar. Tudo acontece no navegador
 
 ## Minha Entrega
 
-Na sua cópia, abra este README, clique no lápis (**Edit this file**) e role até aqui. Troque cada frase em itálico pelo que você fez e cole o texto dentro dos blocos já prontos. Para pôr um print, é só colar a imagem com Ctrl+V. No fim, clique em **Commit changes**.
+# Deutsch mit KI 🇩🇪
 
-Nada de e-mail, nome de cliente, dado da empresa, senha ou informação pessoal nos textos e nos prints.
+**German Learning Companion — Personal AI Toolkit**
 
-### Minha Tarefa Real
+Projeto desenvolvido como parte do desafio de projeto do bootcamp **Santander IA para o Dia a Dia**, da DIO.
 
-_Qual tarefa da sua semana você escolheu e por que ela vale a pena?_
+O objetivo é criar um kit pessoal de inteligência artificial para apoiar o aprendizado de alemão, utilizando prompts reutilizáveis, templates, checklists e uma skill personalizada.
 
-### Meus Atalhos
+A proposta é utilizar a IA como uma ferramenta complementar de aprendizagem, tornando os estudos mais organizados, interativos e personalizados.
 
-_Conte quais modelos do kit você adaptou, o que ficou fixo e o que muda a cada uso._
+## 🎯 Objetivo do Projeto
 
-```text
-Cole aqui o seu primeiro atalho, já adaptado.
-```
+Desenvolver um conjunto de assistentes de IA para auxiliar na evolução do idioma alemão, partindo do nível A1 até alcançar o A2, de acordo com o Quadro Europeu Comum de Referência para Línguas (CEFR).
 
-```text
-Cole aqui o seu segundo atalho, já adaptado.
-```
+O kit foi pensado para apoiar diferentes etapas do aprendizado:
 
-### Minha Delegação
+- Compreensão e aplicação da gramática alemã.
+- Expansão do vocabulário.
+- Prática de conversação.
+- Desenvolvimento da compreensão auditiva.
+- Exercícios de leitura e escrita.
+- Organização e acompanhamento da rotina de estudos.
 
-```text
-Cole aqui o pedido que você entregou à IA, com objetivo, contexto, recursos, limites e sucesso.
-```
+## 👤 Perfil de Aprendizagem
 
-### O Plano da IA
+| Característica | Configuração |
+|---|---|
+| Idioma estudado | Alemão |
+| Nível atual | A1 |
+| Objetivo | A2 |
+| Disponibilidade semanal | 7 a 10 horas |
+| Idioma das explicações | Português |
+| Idioma dos exemplos | Alemão |
 
-_Cole o print do plano e conte o que você ajustou antes de a IA começar._
+**Prioridades de aprendizagem:**
 
-### O Resultado
+1. Gramática
+2. Vocabulário
+3. Conversação
+4. Compreensão auditiva
+5. Leitura e escrita
 
-_Cole o print do resultado e conte como você conferiu antes de usar._
+## 🧰 Estrutura do Kit
 
-### Como Foi para Você
+### 01 — Prompts
 
-_Conte em poucas linhas o que mudou no seu dia a dia._
+Prompts reutilizáveis desenvolvidos para diferentes necessidades de aprendizagem.
+
+**German Tutor**
+
+Professor particular de alemão que apresenta explicações gramaticais, exemplos práticos, exercícios e atividades interativas adaptadas ao nível A1/A2.
+
+**Grammar & Vocabulary Assistant**
+
+Assistente especializado em análise de vocabulário, correção de frases, explicações gramaticais, conjugação verbal e identificação dos casos gramaticais do alemão.
+
+### 02 — Templates
+
+Modelos reutilizáveis para organizar a rotina de estudos.
+
+**Weekly German Study Plan**
+
+Template para estruturar um planejamento semanal, distribuindo atividades de gramática, vocabulário, conversação, compreensão auditiva, leitura e escrita.
+
+### 03 — Checklists
+
+Ferramentas de acompanhamento e validação da aprendizagem.
+
+**German Learning Review**
+
+Checklist para revisar conteúdos estudados, identificar dificuldades, avaliar atividades concluídas e definir prioridades para a próxima semana.
+
+### 04 — Skills
+
+**German Study Coach**
+
+Skill personalizada que orienta a IA na organização e acompanhamento dos estudos de alemão.
+
+Suas principais responsabilidades são:
+
+- Criar planejamentos semanais personalizados.
+- Distribuir atividades de acordo com a disponibilidade.
+- Definir objetivos de aprendizagem.
+- Preparar exercícios e materiais de estudo.
+- Revisar o progresso semanal.
+- Adaptar os próximos planejamentos de acordo com as dificuldades identificadas.
+
+### 05 — Delegação e Automação
+
+**Weekly German Study Planner**
+
+Fluxo de delegação de uma tarefa de planejamento semanal à IA.
+
+A proposta é fornecer o contexto de aprendizagem, solicitar um plano, revisar a proposta, aprovar os ajustes e acompanhar a preparação dos materiais.
+
+A decisão final sobre o planejamento e as atividades permanece sob responsabilidade do estudante.
+
+---
+
+# Minha Entrega
+
+## Minha Tarefa Real
+
+**Planejamento semanal personalizado de estudos de alemão.**
+
+Escolhi essa tarefa porque estou estudando alemão com o objetivo de evoluir do nível A1 para A2 e me preparar para uma experiência de vida na Alemanha.
+
+A organização dos estudos exige distribuir diferentes habilidades linguísticas ao longo da semana, acompanhar dificuldades e revisar conteúdos anteriores.
+
+Deleguei à IA a preparação de um planejamento semanal personalizado, considerando minha disponibilidade de 7 a 10 horas de estudo por semana.
+
+## Meus Atalhos
+
+Desenvolvi dois prompts personalizados para utilizar a IA como ferramenta de apoio ao aprendizado.
+
+**1. German Tutor**
+
+Um professor particular de alemão que explica conteúdos gramaticais em português, apresenta exemplos em alemão, cria exercícios e conduz atividades interativas.
+
+As instruções fixas incluem o nível A1/A2, a metodologia de ensino e a utilização de situações cotidianas.
+
+A cada utilização, posso informar o assunto que desejo estudar, minhas dúvidas e o tipo de exercício desejado.
+
+**2. Grammar & Vocabulary Assistant**
+
+Um assistente para analisar palavras, expressões e frases em alemão.
+
+As instruções fixas incluem tradução, classificação gramatical, identificação de artigos, plural, conjugação verbal e explicação dos casos gramaticais.
+
+A cada utilização, posso fornecer novas palavras, frases ou textos para análise e correção.
+
+## Minha Delegação
+
+**Tarefa delegada: Weekly German Study Planner**
+
+Solicitei à IA que preparasse um planejamento semanal de estudos de alemão, considerando meu nível atual A1, meu objetivo A2 e uma disponibilidade de 7 a 10 horas semanais.
+
+O planejamento deveria contemplar gramática, vocabulário, conversação, compreensão auditiva, leitura e escrita.
+
+Também estabeleci os seguintes limites:
+
+- Não assumir que atividades foram realizadas sem minha confirmação.
+- Não introduzir conteúdos avançados sem necessidade.
+- Distribuir as atividades de maneira equilibrada.
+- Incluir objetivos claros e exercícios práticos.
+- Apresentar o planejamento para minha aprovação antes de preparar os materiais.
+
+O critério de sucesso é obter um planejamento realista, personalizado e que possa ser reutilizado e atualizado semanalmente.
+
+## O Plano da IA
+
+**Evidência da etapa de planejamento:**
+
+[INSERIR PRINT DO PLANO PROPOSTO PELA IA]
+
+**Ajustes realizados antes da execução:**
+
+[DESCREVER OS AJUSTES FEITOS APÓS ANALISAR A PROPOSTA.]
+
+## O Resultado
+
+**Evidência da execução:**
+
+[INSERIR PRINT DO PLANEJAMENTO FINAL E DOS MATERIAIS PREPARADOS.]
+
+**Como validei o resultado:**
+
+[DESCREVER COMO CONFERI A DISTRIBUIÇÃO DAS HORAS, A ADEQUAÇÃO AO NÍVEL A1/A2 E A QUALIDADE DAS ATIVIDADES.]
+
+## Como Foi para Você
+
+O desenvolvimento deste kit permitiu explorar diferentes formas de utilizar a inteligência artificial como ferramenta de aprendizagem.
+
+Além de obter respostas para dúvidas pontuais, passei a utilizar a IA de maneira mais estruturada, criando instruções reutilizáveis e delegando tarefas com objetivos e critérios de sucesso definidos.
+
+O projeto também demonstrou a importância de revisar e validar as respostas geradas pela IA, mantendo o controle sobre as decisões e o processo de aprendizagem.
+
+**Próximos passos:** continuar utilizando os assistentes durante os estudos, acompanhar minha evolução e adaptar os planejamentos de acordo com as dificuldades e os resultados obtidos.
+
+---
+
+*Projeto desenvolvido para o bootcamp Santander IA para o Dia a Dia — DIO.*
